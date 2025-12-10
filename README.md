@@ -1,6 +1,6 @@
 ##  𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝙼𝙳 𝚟𝟽⚡️ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛ
 
-<img src="https://files.catbox.moe/snt5ow.jpg" width="80" align="right"/>
+<img src="https://o.uguu.se/WqWUhTeX.jpg" width="80" align="right"/>
 
 Get your **𝙳𝙰𝙽𝙳𝙾𝚁𝙰-𝙼𝙳 𝚟𝟽** running in seconds with exclusive, high-speed deployment options used by pro developers worldwide.
 
@@ -64,14 +64,14 @@ Want to run it locally or on your own server? Grab the complete package instantl
     <img src="https://img.shields.io/badge/📦 DOWNLOAD HERE-ff0000?style=for-the-badge&logo=dropbox&logoColor=white" height="55"/>
   </a>
   <br><br>
-  <img src="https://files.catbox.moe/piin3u.jpg" width="200"/>
+  <img src="https://o.uguu.se/tilqcjEO.jpg width="200"/>
 </div>
 
-<h4 align="center">ᴍᴇᴇᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h4>
+<h4 align="center">ᴍᴇᴇᴛ the bot creator and ᴅᴇᴠᴇʟᴏᴘᴇʀ</h4>
 
 <p align="center">
   <!-- ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ -->
-  <a href="https://wa.me/255778018545">
+  <a href="https://wa.me/27695667331">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%">
   </a>
 </p>
